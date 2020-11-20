@@ -1,0 +1,24 @@
+Busca em Largura
+[[1, 2, 3], [4, -1, 5], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 9 [[1, 5, 2], [4, -1, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 12 [[1, 2, -1], [4, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 13 [[-1, 1, 2], [4, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 14 [[1, 2, 3], [4, 5, -1], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 16 [[1, -1, 2], [4, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 18 [[1, -1, 3], [4, 2, 5], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 20 [[1, 2, 3], [4, 8, 5], [7, -1, 6]] generate_from: root
+Número de nós da fronteira: 22 [[1, 2, 3], [4, 5, -1], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 24 [[1, 2, 3], [-1, 4, 5], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 26 [[1, -1, 2], [4, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 28 [[1, 5, 2], [4, 8, 3], [7, -1, 6]] generate_from: root
+Número de nós da fronteira: 30 [[1, 5, 2], [4, 3, -1], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 32 [[1, 5, 2], [-1, 4, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 34 [[1, 2, 3], [4, 5, -1], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 36 [[1, -1, 2], [4, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 38 [[4, 1, 2], [-1, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 40 [[1, -1, 2], [4, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 42 [[1, 2, -1], [4, 5, 3], [7, 8, 6]] generate_from: root
+Número de nós da fronteira: 43 [[1, 2, 3], [4, 5, 6], [7, 8, -1]] generate_from: root
+Estado final encontrado!!!
+Custo = 24
+Profundidade = 4

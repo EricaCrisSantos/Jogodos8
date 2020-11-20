@@ -1,0 +1,16 @@
+Busca em Profundidade
+[[1, 3, 2], [4, 6, 8], [5, 7, -1]] generate_from: move_down custo: 23 profundidade: 14
+Número de nós da fronteira: 11 [[1, 3, 2], [4, 6, 8], [5, -1, 7]] generate_from: move_left custo: 24 profundidade: 15
+Número de nós da fronteira: 12 [[1, 3, 2], [4, 6, 8], [-1, 5, 7]] generate_from: move_left custo: 26 profundidade: 16
+Número de nós da fronteira: 12 [[1, 3, 2], [-1, 6, 8], [4, 5, 7]] generate_from: move_up custo: 27 profundidade: 17
+Número de nós da fronteira: 12 [[-1, 3, 2], [1, 6, 8], [4, 5, 7]] generate_from: move_up custo: 28 profundidade: 18
+Número de nós da fronteira: 12 [[3, -1, 2], [1, 6, 8], [4, 5, 7]] generate_from: move_right custo: 29 profundidade: 19
+Número de nós da fronteira: 13 [[3, 6, 2], [1, -1, 8], [4, 5, 7]] generate_from: move_down custo: 30 profundidade: 20
+Número de nós da fronteira: 14 [[3, 6, 2], [1, 8, -1], [4, 5, 7]] generate_from: move_right custo: 32 profundidade: 21
+Número de nós da fronteira: 15 [[3, 6, 2], [1, 8, 7], [4, 5, -1]] generate_from: move_down custo: 34 profundidade: 22
+Número de nós da fronteira: 15 [[3, 6, 2], [1, 8, 7], [4, -1, 5]] generate_from: move_left custo: 35 profundidade: 23
+Número de nós da fronteira: 16 [[3, 6, 2], [1, 8, 7], [-1, 4, 5]] generate_from: move_left custo: 37 profundidade: 24
+Número de nós da fronteira: 16 [[3, 6, 2], [-1, 8, 7], [1, 4, 5]] generate_from: move_up custo: 38 profundidade: 25
+Número de nós da fronteira: 16 [[-1, 6, 2], [3, 8, 7], [1, 4, 5]] generate_from: move_up custo: 39 profundidade: 26
+Número de nós da fronteira: 16 [[6, -1, 2], [3, 8, 7], [1, 4, 5]] generate_from: move_right custo: 40 profundidade: 27
+Número de nós da fronteira: 17 
